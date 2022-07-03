@@ -23,7 +23,7 @@ This program successfully accomplishes all of this without your actual password 
 
 ### Example
 
-An exampl checking number of occurrences for `password`
+An example checking number of occurrences for `password`
 
 ```bash
 (python-hibp-check) $ python hibp.py
